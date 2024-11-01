@@ -1,0 +1,32 @@
+.yandexid-form input,
+.yandexid-form select{
+  width: 200px;
+}
+.yandexid-form input.checkbox{
+  width: 1rem;
+}
+.yandexid-form .create-oauth-app p{
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.yandexid-form .ya-message{
+  height: 20px;
+  width: 100%;
+  float: left;
+  margin: 10px 0px 20px 0px;
+  opacity: 0;
+}
+.yandexid-form .field-map label{
+  font-weight: normal;
+}
+.yandexid-form .yandexid-yandexid_title div,
+.yandexid-suggest_button_view div,
+.yandexid-yandexid_type_selection div{
+  margin: 10px 0px 0px 0px;
+  font-size: 12px; 
+}
+.yandexid-suggest_button_view .btn-example img{
+  height: 100px;
+  width: auto;
+  display: none;
+}
